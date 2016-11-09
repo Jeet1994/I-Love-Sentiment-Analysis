@@ -12,5 +12,5 @@ Please fork and contribute if you wish to.
 
 Recommended languages : 
 
- 1. ###Python
- 2. ###R
+ 1. Python
+ 2. R
